@@ -1,0 +1,23 @@
+{
+  "name": "newgen-vision",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n0sfer666/NewGen-Vision.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n0sfer666/NewGen-Vision/issues"
+  },
+  "homepage": "https://github.com/n0sfer666/NewGen-Vision#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
